@@ -1,0 +1,9 @@
+[package]
+name = "rustapp"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+num-traits = "0.2.19"
+rustyline = "18.0.0"
+colored = "3.1.1"
